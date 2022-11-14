@@ -1,0 +1,156 @@
+[
+    {
+        "title": "Star Wars I: The Phantom Menace",
+        "year": "1999",
+        "type": "Movie",
+        "description": "After a millennia, an ancient evil returns seeking revenge. Meanwhile, Jedi Knight Qui-Gon Jinn discovers Anakin Skywalker: a young slave boy unusually strong with the Force.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Phantom-Menace-I-Poster_3c1ff9eb.jpeg?region=15%2C9%2C651%2C979&width=480"
+    },
+    {
+        "title": "Star Wars II: Attack of the Clones",
+        "year": "2002",
+        "type": "Movie",
+        "description": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot that could change the galaxy forever.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Attack-Clones-II-Poster_53baa2e7.jpeg?region=18%2C0%2C660%2C1000&width=480"
+    },
+    {
+        "title": "Star Wars: Clone Wars",
+        "year": "2003 and ended in 2005",
+        "type": "Animated Series",
+        "description": "Jedi knights battle Darth Sidious.",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/CloneWarslogo.JPG/250px-CloneWarslogo.JPG"
+    },
+    {
+        "title": "Star Wars: The Clone Wars",
+        "year": "2008",
+        "type": "Movie",
+        "description": "As the Clone Wars sweep through the galaxy, Anakin Skywalker and his new Padawan learner Ahsoka Tano plunge into a dangerous mission to rescue the kidnapped son of crime lord Jabba the Hutt.",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Star_wars_the_clone_wars.jpg/220px-Star_wars_the_clone_wars.jpg"
+    },
+    {
+        "title": "Star Wars: The Clone Wars",
+        "year": "2008 and ended in 2020",
+        "type": "Animated Series",
+        "description": "Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+        "imgURL": "https://static.tvtropes.org/pmwiki/pub/images/the_clone_wars_poster_45.png"
+    },
+    {
+        "title": "Star Wars III: Revenge of the Sith",
+        "year": "2005",
+        "type": "Movie",
+        "description": "The evil Darth Sidious enacts his final plan for unlimited power -- and the heroic Jedi Anakin Skywalker must choose a side.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Revenge-Sith-III-Poster_646108ce.jpeg?region=0%2C0%2C736%2C1090&width=480"
+    },
+    {
+        "title": "Star Wars: The Bad Batch",
+        "year": "2021 until Present",
+        "type": "Animated Series",
+        "description": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars.",
+        "imgURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIYMW4h0Swh_NGflXsFV4J2CFpcg4imaRbSFAB4Rde8id3YRZv"
+    },
+    {
+        "title": "Solo: A Star Wars Story",
+        "year": "2018",
+        "type": "Movie",
+        "description": "Board the Millennium Falcon and journey to a galaxy far, far away in Solo: A Star Wars Story, an all-new adventure with the most beloved scoundrel in the galaxy. Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian, in a journey that will set the course of one of the Star Wars saga’s most unlikely heroes.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/solo-theatrical-poster-1000_27861ab7.jpeg?region=0%2C0%2C1000%2C1481&width=480"
+    },
+    {
+        "title": "Obi-Wan Kenobi",
+        "year": "2022",
+        "type": "Series",
+        "description": "During the reign of the Empire, Obi-Wan Kenobi embarks on a crucial mission.",
+        "imgURL": "https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg"
+    },
+    {
+        "title": "Star Wars Rebels",
+        "year": "2014 and ended in 2018",
+        "type": "Animated Series",
+        "description": "It is a dark time in the galaxy, but the motley crew of the starship Ghost stands up for those who cannot fight for themselves, providing the spark to ignite a rebellion.",
+        "imgURL": "https://flxt.tmsimg.com/assets/p10565336_b_v8_ah.jpg"
+    },
+    {
+        "title": "Star Wars: Andor",
+        "year": "2022 until Present",
+        "type": "Series",
+        "description": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+        "imgURL": "https://m.media-amazon.com/images/M/MV5BNDgxNTIyZTMtMzYxNi00NmRjLWFiMTEtM2U4MTFmODkzNzM1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg"
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "year": "2016",
+        "type": "Movie",
+        "description": "From Lucasfilm comes the first of the Star Wars standalone films, “Rogue One: A Star Wars Story,” an all-new epic adventure. In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire’s ultimate weapon of destruction. This key event in the Star Wars timeline brings together ordinary people who choose to do extraordinary things, and in doing so, become part of something greater than themselves.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/rogueone_onesheeta_1000_309ed8f6.jpeg?region=0%2C0%2C1000%2C1481&width=480"
+    },
+    {
+        "title": "Star Wars IV: A New Hope",
+        "year": "1977",
+        "type": "Movie",
+        "description": "With the planet-destroying power of the Death Star, the Empire looks to cement its grip on the galaxy. Meanwhile, farm boy Luke Skywalker rises to face his destiny.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-New-Hope-IV-Poster_c217085b.jpeg?region=49%2C43%2C580%2C914&width=480"
+    },
+    {
+        "title": "Star Wars V: The Empire Strikes Back",
+        "year": "1980",
+        "type": "Movie",
+        "description": "While the Death Star has been destroyed, the battle between the Empire and the Rebel Alliance rages on...and the evil Darth Vader continues his relentless search for Luke Skywalker.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Empire-Strikes-Back-V-Poster_878f7fce.jpeg?region=25%2C22%2C612%2C953&width=480"
+    },
+    {
+        "title": "Star Wars VI: Return of the Jedi",
+        "year": "1983",
+        "type": "Movie",
+        "description": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/Star-Wars-Return-Jedi-VI-Poster_a10501d2.jpeg?region=12%2C9%2C618%2C982&width=480"
+    },
+    {
+        "title": "Star Wars: The Mandalorian",
+        "year": "2019 until Present",
+        "type": "Series",
+        "description": "After the fall of the Empire, a lone Mandalorian makes his way through the lawless galaxy with his foundling, Grogu.",
+        "imgURL": "https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg"
+    },
+    {
+        "title": "The Book of Boba Fett",
+        "year": "2021",
+        "type": "Series",
+        "description": "No longer just a hired gun, Boba Fett reinvents himself on Tatooine alongside Fennec Shand.",
+        "imgURL": "https://m.media-amazon.com/images/M/MV5BZjllZjE1MWEtYTJhZC00MWIyLTliMjEtYzM3ODc4YzQ2MjFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg"
+    },
+    {
+        "title": "Star Wars: Resistance",
+        "year": "2018 and ended in 2019",
+        "type": "Animated Series",
+        "description": "Kaz embarks on a spy mission for the Resistance, but gets in over his head with racers, pirates, and the mysterious owner of the platform he’s stationed on.",
+        "imgURL": "https://m.media-amazon.com/images/M/MV5BMTkyMTc3NjAwNF5BMl5BanBnXkFtZTgwNTU1ODIyNjM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "Star Wars VII: The Force Awakens",
+        "year": "2015",
+        "type": "Movie",
+        "description": "Thirty years after the Battle of Endor, a new threat has risen in the form of the First Order and the villainous Kylo Ren. Meanwhile, Rey, a young scavenger, discovers powers that will change her life -- and possibly save the galaxy.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/avco_payoff_1-sht_v7_lg_32e68793.jpeg?region=0%2C0%2C1620%2C2400&width=480"
+    },
+    {
+        "title": "Star Wars VIII: The Last Jedi",
+        "year": "2017",
+        "type": "Movie",
+        "description": "Rey has found the legendary Luke Skywalker, hoping to be trained in the ways of the Force. Meanwhile, the First Order seeks to destroy the remnants of the Resistance and rule the galaxy unopposed.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/the-last-jedi-theatrical-poster-film-page_bca06283.jpeg?region=0%2C0%2C480%2C711"
+    },
+    {
+        "title": "Star Wars IX: The Rise of Skywalker",
+        "year": "2019",
+        "type": "Movie",
+        "description": "A powerful enemy returns and Rey must face her destiny.",
+        "imgURL": "https://lumiere-a.akamaihd.net/v1/images/star-wars-the-rise-of-skywalker-theatrical-poster-1000_ebc74357.jpeg?region=0%2C0%2C891%2C1372&width=480"
+    },
+    {
+        "title": "Star Wars: Visions",
+        "year": "2021",
+        "type": "Animated Series",
+        "description": "Star Wars anthology series that will see some of the world's best anime creators bring their talent to this beloved universe.",
+        "imgURL": "https://m.media-amazon.com/images/M/MV5BNWJiMDA4OTEtOGU0MC00ZDc5LWE5NWItNWVhMTlhNDliMjc4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg"
+    }
+]
