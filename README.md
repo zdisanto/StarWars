@@ -1,4 +1,4 @@
-# StarWars
+# StarWars.info
 An Ionic application to view the original trilogy or all of the Star Wars movies and/or series in (_canon_) order.
 
 The application can be found <a href="https://homework9-zd009.web.app">here</a>.
